@@ -6,6 +6,9 @@
 # browser = webdriver.Chrome()
 # browser.get("http://python.org")
 
+# browser = webdriver.Chrome()
+# browser.get("http://python.org")
+
 # # find_elements_by_id,name,class_name
 # menus = browser.find_elements_by_css_selector('#top ul.menu li')
 # pypi = None
@@ -110,6 +113,7 @@
 
 # o = randrange(0,100,2)
 # print (o)
+
 # 이미지 처리 모듈, PIL, OpenCV
 # python3 : pillow
 # pip install Pillow
