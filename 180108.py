@@ -3,8 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 
-################ Ensemble CNN MNIST #######################
-
 ################ CNN MNIST with CLASS ######################
 from tensorflow.examples.tutorials.mnist import input_data
 mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
